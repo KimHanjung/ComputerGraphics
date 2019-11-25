@@ -1,0 +1,17 @@
+﻿  main.cpp
+c:\users\user\desktop\전공\컴그\codes\vc\utils\arcball.h(82): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\전공\컴그\codes\vc\projects\computer_graphics\computer_graphics\main.cpp(107): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\전공\컴그\codes\vc\projects\computer_graphics\computer_graphics\main.cpp(111): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\전공\컴그\codes\vc\projects\computer_graphics\computer_graphics\main.cpp(112): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\전공\컴그\codes\vc\projects\computer_graphics\computer_graphics\main.cpp(174): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\전공\컴그\codes\vc\projects\computer_graphics\computer_graphics\main.cpp(185): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\전공\컴그\codes\vc\projects\computer_graphics\computer_graphics\main.cpp(186): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\user\desktop\전공\컴그\codes\vc\projects\computer_graphics\computer_graphics\main.cpp(480): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\전공\컴그\codes\vc\projects\computer_graphics\computer_graphics\main.cpp(481): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\전공\컴그\codes\vc\projects\computer_graphics\computer_graphics\main.cpp(485): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\전공\컴그\codes\vc\projects\computer_graphics\computer_graphics\main.cpp(486): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\전공\컴그\codes\vc\projects\computer_graphics\computer_graphics\main.cpp(644): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\전공\컴그\codes\vc\projects\computer_graphics\computer_graphics\main.cpp(678): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\전공\컴그\codes\vc\projects\computer_graphics\computer_graphics\main.cpp(679): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+LINK : warning LNK4098: 'MSVCRT' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+  computer_graphics.vcxproj -> C:\Users\USER\Desktop\전공\컴그\Codes\vc\projects\computer_graphics\Debug\computer_graphics.exe
